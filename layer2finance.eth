@@ -1,0 +1,5 @@
+└── spaces
+    └── aliases.json
+    {
+  "my-space": "my-space.eth"
+}
